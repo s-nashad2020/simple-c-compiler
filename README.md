@@ -73,7 +73,3 @@ Language support for
 - recursion
 - string types
 - nested functions (not really C though)
-
-## References
-[1] The interpreter program has been implemented by Romina Jafarian, at Computer Engineering Department of Sharif
-University of Technology (Tehran) in Fall 2017.
